@@ -131,6 +131,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+lc-academy-env/
 env.bak/
 venv.bak/
 
